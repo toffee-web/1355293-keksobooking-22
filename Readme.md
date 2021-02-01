@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг»
 
 * Студент: [Kristina Veremei](https://up.htmlacademy.ru/javascript/22/user/1355293).
-* Наставник: `Неизвестно`.
+* Наставник: [Дмитрий Мирошниченко](https://htmlacademy.ru/profile/id591417).
 
 ---
 
