@@ -58,6 +58,6 @@ const generateData = function () {
   return new Array(GENERATED_OBJECTS).fill(null).map(() => createAd());
 }
 
-generateData();
+//generateData();
 
-export {generateData};
+export {generateData, createAd};
